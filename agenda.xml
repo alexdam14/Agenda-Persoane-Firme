@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<agenda>
+	<persoana>
+		<nume>Mircea Andrei</nume>
+		<numarTelefon>0268.wqe4</numarTelefon>
+		<email>mircea.andrei@gmail.com</email>
+		<oras>Targoviste</oras>
+	</persoana>
+	<persoana>
+		<nume>Mirel Vasile</nume>
+		<numarTelefon>0268.534</numarTelefon>
+		<email>mirel.vasile97@outlook.com</email>
+		<oras>Sinaia</oras>
+	</persoana>
+	<persoana>
+		<nume>Radu Andrei</nume>
+		<numarTelefon>0268.345.234</numarTelefon>
+		<email>radu.andr41334ail.com</email>
+		<oras>Racari</oras>
+	</persoana>
+	<persoana>
+		<nume>Mircea Andrei</nume>
+		<numarTelefon>0268.wqe4</numarTelefon>
+		<email>mircea.andrei@gmail.com</email>
+		<oras>Targoviste</oras>
+	</persoana>
+	<persoana>
+		<nume>Mirel Vasile</nume>
+		<numarTelefon>0268.534</numarTelefon>
+		<email>mirel.vasile97@outlook.com</email>
+		<oras>Sinaia</oras>
+	</persoana>
+	<persoana>
+		<nume>Radu Andrei</nume>
+		<numarTelefon>0268.345.234</numarTelefon>
+		<email>radu.andr41334ail.com</email>
+		<oras>Racari</oras>
+	</persoana>
+	<firma>
+		<nume>PENNY MARKET XXL</nume>
+		<numarTelefon>0245781439</numarTelefon>
+		<email>office@penny.com</email>
+		<oras>Targoviste</oras>
+		<numarAngajati>12</numarAngajati>
+		<numarFax>0245763943</numarFax>
+	</firma>
+	<firma>
+		<nume>KAUFLAND</nume>
+		<numarTelefon>0735923483</numarTelefon>
+		<email>contact@kaufland.com</email>
+		<oras>Iasi</oras>
+		<numarAngajati>25</numarAngajati>
+		<numarFax>0654124854</numarFax>
+	</firma>
+	<firma>
+		<nume>SC.Franzeluta S.A.</nume>
+		<numarTelefon>0764987910</numarTelefon>
+		<email>contact@franzeluta.com</email>
+		<oras>Racari</oras>
+		<numarAngajati>9</numarAngajati>
+		<numarFax>0245787345</numarFax>
+	</firma>
+	<firma>
+		<nume>SC.INTEREX S.A.</nume>
+		<numarTelefon>0743653253</numarTelefon>
+		<email>interex.sa@gmail.com</email>
+		<oras>Targoviste</oras>
+		<numarAngajati>24</numarAngajati>
+		<numarFax>0245673845</numarFax>
+	</firma>
+	<firma>
+		<nume>PENNY MARKET XXL</nume>
+		<numarTelefon>0245781439</numarTelefon>
+		<email>office@penny.com</email>
+		<oras>Targoviste</oras>
+		<numarAngajati>12</numarAngajati>
+		<numarFax>0245763943</numarFax>
+	</firma>
+	<firma>
+		<nume>KAUFLAND</nume>
+		<numarTelefon>0735923483</numarTelefon>
+		<email>contact@kaufland.com</email>
+		<oras>Iasi</oras>
+		<numarAngajati>25</numarAngajati>
+		<numarFax>0654124854</numarFax>
+	</firma>
+	<firma>
+		<nume>SC.Franzeluta S.A.</nume>
+		<numarTelefon>0764987910</numarTelefon>
+		<email>contact@franzeluta.com</email>
+		<oras>Racari</oras>
+		<numarAngajati>9</numarAngajati>
+		<numarFax>0245787345</numarFax>
+	</firma>
+	<firma>
+		<nume>SC.INTEREX S.A.</nume>
+		<numarTelefon>0743653253</numarTelefon>
+		<email>interex.sa@gmail.com</email>
+		<oras>Targoviste</oras>
+		<numarAngajati>24</numarAngajati>
+		<numarFax>0245673845</numarFax>
+	</firma>
+</agenda>
